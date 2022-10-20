@@ -1,0 +1,1 @@
+(@(&"C:/Program Files (x86)/oh-my-posh/bin/oh-my-posh.exe" init pwsh --config="E:\software\default.omp.json" --print) -join "`n") | Invoke-Expression
